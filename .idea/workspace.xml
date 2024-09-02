@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="226c6b20-a52a-4561-92b6-5fdf77239fe7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/backend/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/backend/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/backend/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/backend/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/car.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/location.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/machine_service/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/short_links.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/book_service/backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/book_service/backend/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/transaction_history/backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject2/transaction_history/backend/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lTA0DTFcqTFLov71KG1vkYTVbM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226c6b20-a52a-4561-92b6-5fdf77239fe7" name="Changes" comment="" />
+      <created>1725193467810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725193467810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>
